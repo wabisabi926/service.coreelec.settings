@@ -358,7 +358,7 @@ msgstr "为所有 CPU 核心设置电源管理策略"
 
 msgctxt "#792"
 msgid "Enable/Disable HDD parking on power off/suspend"
-msgstr "启用 / 禁用硬盘在关机 / 挂起时的磁头归位功能"
+msgstr "启用/禁用硬盘在关机/挂起时的磁头归位功能"
 
 msgctxt "#793"
 msgid "Time in seconds to wait for the HDD to spin down when parking"
@@ -366,7 +366,7 @@ msgstr "磁头归位时等待硬盘完全停止旋转的超时时间（秒）"
 
 msgctxt "#794"
 msgid "Time in minutes/hours until the HDD should enter suspend mode"
-msgstr "硬盘进入休眠模式的超时时间（分钟 / 小时）"
+msgstr "硬盘进入休眠模式的超时时间（分钟/小时）"
 
 msgctxt "#900"
 msgid "Configure eMMC speed mode"
@@ -412,7 +412,7 @@ msgstr "设置为“开启”以启用服务"
 
 msgctxt "#910"
 msgid "Set to ON to send invitation to the @DISTRONAME@ developers for remote debugging"
-msgstr "设置为“开启”以向 CoreELEC 开发人员发送远程调试邀请"
+msgstr "设置为“开启”以向 @DISTRONAME@ 开发人员发送远程调试邀请"
 
 msgctxt "#911"
 msgid "Select the SSH key used for access control"
@@ -472,11 +472,11 @@ msgstr "系统更新"
 
 msgctxt "#32014"
 msgid "Automatic Updates"
-msgstr "自动升级"
+msgstr "自动更新"
 
 msgctxt "#32015"
 msgid "Update Channel"
-msgstr "升级渠道"
+msgstr "更新渠道"
 
 msgctxt "#32016"
 msgid "Show Custom Channels"
@@ -700,7 +700,7 @@ msgstr "编辑"
 
 msgctxt "#32180"
 msgid "Would you like to update @DISTRONAME@ now?"
-msgstr "你想要现在升级 @DISTRONAME@ 吗？"
+msgstr "你想要现在更新 @DISTRONAME@ 吗？"
 
 msgctxt "#32181"
 msgid "Filename"
@@ -984,7 +984,7 @@ msgstr "谢谢您"
 
 msgctxt "#32318"
 msgid "Your @DISTRONAME@ installation is now complete and you are about to enter Kodi where you can set up your media libraries. For help with this, there is a guide available at wiki.kodi.tv[CR][CR]@DISTRONAME@ is developed by a dedicated team of developers who work purely in their spare time.[CR][CR]Finally, we hope you enjoy using @DISTRONAME@ as much as we've enjoyed building it. If you need any more help, you can find links to our support forum along with latest news at our website."
-msgstr "您的 CoreELEC 已完成安装，即将进入 Kodi 界面，你可以在其中设置媒体库。如需帮助，可访问 wiki.kodi.tv 获取指南。[CR][CR]@DISTRONAME@ 由一群专注的开发者团队开发，他们完全利用业余时间投入工作。[CR][CR]最后，希望你享受使用@DISTRONAME@ 的过程，如同我们享受构建它的过程一样。如果需要更多帮助，你可以在我们的网站上找到支持论坛链接和最新动态。"
+msgstr "您的 @DISTRONAME@ 已完成安装，即将进入 Kodi 界面，你可以在其中设置媒体库。如需帮助，可访问 wiki.kodi.tv 获取指南。[CR][CR]@DISTRONAME@ 由一群专注的开发者团队开发，他们完全利用业余时间投入工作。[CR][CR]最后，希望你享受使用@DISTRONAME@ 的过程，如同我们享受构建它的过程一样。如果需要更多帮助，你可以在我们的网站上找到支持论坛链接和最新动态。"
 
 msgctxt "#32319"
 msgid "Cron"
